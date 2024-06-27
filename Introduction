@@ -1,0 +1,15 @@
+Tableau is a powerful data visualization tool that helps users to understand data through interactive and shareable dashboards.
+
+Basic Components of Tableau
+
+A. Tableau Desktop:  This is the primary development tool where you can create reports and dashboards. It’s available for both personal and professional editions.
+
+B. Tableau Server: A web-based platform that allows users to share and distribute Tableau workbooks and dashboards. It also provides data governance and security.
+
+C. Tableau Online: A hosted version of Tableau Server. It is a cloud-based solution for sharing, distributing, and collaborating on Tableau dashboards.
+
+D. Tableau Public: A free version of Tableau that allows users to create and share visualizations publicly.
+
+E. Tableau Reader: free desktop application that allows users to open and view visualizations created in Tableau Desktop.
+
+F.Tableau Prep: A data preparation tool that helps in cleaning, combining, and shaping data before analysis in Tableau Desktop.
