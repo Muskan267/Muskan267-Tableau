@@ -1,7 +1,11 @@
-We can connect to databases from different data sources like excel, JSON, and many more.
+We can connect to databases from different data sources like Excel, JSON, and many more.
 
 
-Step 1: connection to the database : Select whatever datasource you want to work with in this case we are using excel
-Step 2: After importing the dataset into Tableau  : Then select sheet from left bottom corner and import datasource into sheet
-Step 3: Importing data source into the workbook : Dataset has been imported left sides we are can see all the columns just to see how it works i had clicked the 
-                                                   prod_category column to see the total order ( it's kind of seeing total order value by every product category)
+Step 1: connection to the database: Select whatever data source you want to work with in this case we are using Excel
+Step 2: After importing the dataset into Tableau: Then select the sheet from the left corner and import the source into the sheet
+Step 3: Importing data source into the workbook: The dataset has been imported left side we can see all the columns just to see how it works I clicked the 
+                                                   prod_category column to see the total order ( it's kind of seeing the total order value by every product category)
+
+Dimensions and Measures: We  had two types of fields here qualitative known as measures and quantitative fields are  called dimensions 
+Convert Measures to Dimension or vice-versa: Suppose according to your use case, the field in measure needs to be converted into dimension or vice versa. 
+                                              Then right-click on that field and convert to Measure or Convert to Dimension.
