@@ -1,6 +1,8 @@
-We can connect to database from different datasources like excel , json and many more .
+We can connect to databases from different data sources like excel, JSON, and many more.
 
-We will use excel datasource and will connect with database and then we will understand about workbook .
+We will use an Excel data source and will connect with the database and then we will understand about workbook .
 
 Topics covered :
-A. connection to database 
+Step 1: connection to the database
+Step 2: After importing the dataset into Tableau 
+Step 3: Importing data source into the workbook 
