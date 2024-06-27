@@ -1,0 +1,10 @@
+I had installed Tableau desktop and Tableau public.
+Tableau desktop has 14 days free trial and Tableau public is free.
+
+What are drivers? 
+These software components allow Tableau to connect to various types of databases. For example, to connect Tableau to a MySQL database, you must install the MySQL driver on your system. Similarly, corresponding drivers are required for connections to other databases like SQL Server, Oracle, PostgreSQL, etc. Tableau provides a list of supported drivers and instructions for installation. 
+Some by default drivers are on Tableau's main screen:
+TEXT FILE
+EXCEL FILE
+JSON FILE ETC.
+ Still, if you want to explicitly want other drivers you can use: https://www.tableau.com/support/drivers  
