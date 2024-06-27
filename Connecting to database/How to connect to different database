@@ -1,8 +1,7 @@
 We can connect to databases from different data sources like excel, JSON, and many more.
 
-We will use an Excel data source and will connect with the database and then we will understand about workbook .
 
-Topics covered :
-Step 1: connection to the database
-Step 2: After importing the dataset into Tableau 
-Step 3: Importing data source into the workbook 
+Step 1: connection to the database : Select whatever datasource you want to work with in this case we are using excel
+Step 2: After importing the dataset into Tableau  : Then select sheet from left bottom corner and import datasource into sheet
+Step 3: Importing data source into the workbook : Dataset has been imported left sides we are can see all the columns just to see how it works i had clicked the 
+                                                   prod_category column to see the total order ( it's kind of seeing total order value by every product category)
