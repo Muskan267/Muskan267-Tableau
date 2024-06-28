@@ -1,4 +1,4 @@
-Tableau will automatically joins two dataset if they have a relationship . 
+Tableau will automatically join two datasets if they have a relationship. 
 Suppose there are two datasets :
 
 Orders                                                                                   Return
@@ -10,4 +10,7 @@ address
 order_name
 cost
 
-If we see these two datasets they share a relationship on the basis of order_id column .
+If we see these two datasets they share a relationship based on the order_id column.
+
+Step 1: Based on order_id both datasets are automatically joined . Now we can perform any operation on it.
+Step 2: We will see the total count for each segment and product ID.
