@@ -1,0 +1,13 @@
+Tableau will automatically joins two dataset if they have a relationship . 
+Suppose there are two datasets :
+
+Orders                                                                                   Return
+
+order_ id                                                                                order_id 
+name                                                                                     return_date
+age                                                                                      Status
+address
+order_name
+cost
+
+If we see these two datasets they share a relationship on the basis of order_id column .
